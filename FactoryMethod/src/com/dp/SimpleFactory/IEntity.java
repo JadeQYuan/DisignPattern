@@ -1,4 +1,4 @@
-package com.dp.factoryMethod;
+package com.dp.SimpleFactory;
 
 public interface IEntity {
 }
